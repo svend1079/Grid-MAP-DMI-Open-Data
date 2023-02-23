@@ -1,3 +1,4 @@
+# Import neccesary packages
 import folium
 from folium import features
 import json
